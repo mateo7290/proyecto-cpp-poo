@@ -39,19 +39,15 @@ make
 
 ## Diagramas del sistema
 
-### Diagrama de comunicación
-
-![Diagrama de comunicación](docs/diagrama_comunicacion/diagramas_comunicacion.png)
-
 ### DSS y contratos
-
-#### Diagrama 1
 
 ![DSS 1](docs/dss_y_contratos/dss_y_contratos_1.png)
 
-#### Diagrama 2
+![DSS 2](docs/dss_y_contratos/dss_y_contartos_2.png)
 
-![DSS 2](docs/dss_y_contratos/dss_y_contratos_2.png)
+### Diagrama de comunicación
+
+![Diagrama de comunicación](docs/diagrama_comunicacion/diagramas_comunicacion.png)
 
 ## Documentación adicional
 
